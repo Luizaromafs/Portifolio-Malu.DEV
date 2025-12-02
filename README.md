@@ -13,7 +13,7 @@ O site inclui as seções obrigatórias: Navegação (Navbar), Destaque (Hero Se
 
 # Informações de Entrega
 
-* **Desenvolvedor(a):** Maria Luiza Roma França dos Santos
+* **Desenvolvedor:** Maria Luiza Roma França dos Santos
 * **Curso e Período:** Análise e Desenvolvimento de Sistemas, 1º Período
 * **Site Publicado (Netlify):** https://maludev-portifolio.netlify.app/ 
 
