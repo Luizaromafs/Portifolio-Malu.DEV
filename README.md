@@ -1,4 +1,4 @@
-# Portif-lio- Malu.dev
+# Portifolio-Malu.dev
 Este é o meu portfólio pessoal, desenvolvido para apresentar meus projetos, minhas habilidades como desenvolvedora
 front-end júnior e minha evolução no mundo da tecnologia. O objetivo é reunir tudo em um espaço organizado, moderno
 e responsivo, permitindo que recrutadores e empresas conheçam melhor meu trabalho.
