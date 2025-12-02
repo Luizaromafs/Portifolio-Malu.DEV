@@ -5,7 +5,7 @@ Este projeto consiste na criação de um portfólio pessoal, desenvolvido como u
 O principal objetivo é demonstrar proficiência na estruturação semântica de páginas web, estilização com CSS customizado e utilização do framework Bootstrap para garantir a responsividade em diferentes dispositivos.
 O site inclui as seções obrigatórias: Navegação (Navbar), Destaque (Hero Section), Sobre, Habilidades, Portfólio (com Grid), Contato e Rodapé.
 
-# Tecnologias Utilizadas
+# Ferramentas Utilizadas
 * HTML5
 * CSS3
 * Bootstrap 5
